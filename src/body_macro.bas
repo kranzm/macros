@@ -1,7 +1,7 @@
-Sub Macro1()
-'
-' Macro1 Macro
-'
+Sub Body()
+' Author: Marissa Kranz
+' Body Macro
+' body_macro.bas is a macro that formats the body of a text according to IEEE standards
 '
     Selection.WholeStory
     Selection.WholeStory
